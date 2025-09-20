@@ -1,0 +1,6 @@
+The fibonacci sequence is a series defined where f(0) = 0 and f(1) = 1. f(n), the nth number
+in the sequence, is defined as f(n) = f(n-2) + f(n-1). This problem requires calculating f(n),
+the nth fibonacci number. Create a function capable of calculating f(n).
+
+Input: 1
+Output: 1

@@ -1,0 +1,4 @@
+Create a function that, given a list of items and a given order, reverses the order.
+
+Input: [0, 1, 2, 3]
+Output: [3, 2, 1, 0]
