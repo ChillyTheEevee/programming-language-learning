@@ -1,0 +1,5 @@
+Considered a desired "first program" for new programmers by convention, the "Hello World!"
+program simply prints the words "Hello World!" to the console upon execution.
+
+Input: N/a
+Output: Hello World!
